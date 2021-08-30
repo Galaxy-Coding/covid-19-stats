@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Covid-19 Stats",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
